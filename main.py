@@ -4,8 +4,8 @@ import asyncio
 from telegram import Bot
 
 # Вставьте ваш token от бота Telegram и ID чата
-TELEGRAM_TOKEN = '7939706661:AAGhEG4ow-4XNhdIhDuIGNgJ-sDovxdou3s'
-CHAT_ID = '-4649696760'
+TELEGRAM_TOKEN = 'TOKEN'
+CHAT_ID = 'ChatID'
 
 
 # Создаем экземпляр асинхронного бота
